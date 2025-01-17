@@ -4,5 +4,4 @@ Welcome to **My First Flutter App**! This is a simple mobile application built w
 
 **App Home Screen**  
    ![App Home Screen](/assets/icons/simulator_screenshot_7E8F0ABD-7F84-4998-96A2-A14249D65546.png)
-   ![Alt Text](/assets/icons/simulator_screenshot_7E8F0ABD-7F84-4998-96A2-A14249D65546.png)
 
