@@ -1,16 +1,7 @@
-# fitness
+# My First Flutter App
 
-A new Flutter project.
+Welcome to **My First Flutter App**! This is a simple mobile application built with Flutter, following the tutorial available on [Flutter Basics by a REAL Project](https://www.youtube.com/watch?v=D4nhaszNW4o&t=64s). The app allows you to update text on the screen dynamically using a text input field and buttons.
 
-## Getting Started
+**App Home Screen**  
+   ![App Home Screen](/Users/pari07/Documents/Fitness/fitness/assets/icons/simulator_screenshot_7E8F0ABD-7F84-4998-96A2-A14249D65546.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
